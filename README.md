@@ -22,7 +22,7 @@
 
 1. Клонирование репозитория 
 
-```git clone httpsgithub.combbalistics3d-chess.git```
+```git clone https://github.com/Bidarmuk/3dChess```
 
 2. Переход в директорию 3dChess
 
